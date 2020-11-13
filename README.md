@@ -1,4 +1,4 @@
-ENGLISH | 日本語
+ENGLISH | [日本語](https://github.com/NNCT3J/F-lang/blob/main/README_JP.md)
 # F-lang
 Library for C-lang which can output "それ感想だよね？" within shortest codes in the whole world (maybe).
 
@@ -28,9 +28,9 @@ Like "Hello world" for F-lang.
 ```
 
 ## Other samples
-There's a lot of sample for F-lang beginners in samples
+There's a lot of sample for F-lang beginners in [samples](https://github.com/NNCT3J/F-lang/blob/main/samples).
 
-- `sample.c` - それ感想だよね？
-- `sample2.c` - 15カ年分のそれ感想だよね？
-- `sample3.c` - 決まったデータのバブルソート
-- `sample4.c` - 可変数個のデータに対するバブルソート
+- `sample.c` - [それ感想だよね？](https://github.com/NNCT3J/F-lang/blob/main/samples/sample.c)
+- `sample2.c` - [それ感想だよね？ for 15 years](https://github.com/NNCT3J/F-lang/blob/main/samples/sample2.c)
+- `sample3.c` - [Bubble sort for fixed data](https://github.com/NNCT3J/F-lang/blob/main/samples/sample3.c)
+- `sample4.c` - [Bubble sort for variable data](https://github.com/NNCT3J/F-lang/blob/main/samples/sample4.c)
