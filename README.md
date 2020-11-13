@@ -22,7 +22,7 @@ Like "Hello world" for F-lang.
 
 それ 感想 だよ ね？
 ```
-### 実行結果
+### Result
 ```
 それ感想だよね？
 ```
