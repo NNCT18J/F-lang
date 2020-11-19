@@ -1,4 +1,9 @@
-[ENGLISH](https://github.com/NNCT3J/F-lang) | 日本語
+
+<div align="right">
+<h2 align="right">Language</h2>
+ <a href="https://github.com/NNCT3J/F-lang">English</a> | [日本語]
+</div>
+
 # F言語
 「それ感想だよね？」を(自称)最速で出力できるC言語ライブラリ
 

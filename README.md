@@ -1,4 +1,8 @@
-ENGLISH | [日本語](https://github.com/NNCT3J/F-lang/blob/main/README_JP.md)
+<div align="right">
+<h2 align="right">Language</h2>
+ [English] | <a href="https://github.com/NNCT3J/F-lang/blob/main/README_JP.md">日本語</a>
+</div>
+
 # F-lang
 Library for C-lang which can output "それ感想だよね？" within shortest codes in the whole world (maybe).
 
