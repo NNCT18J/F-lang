@@ -24,6 +24,8 @@
 #define 留年の儀式 for
 #define 台パン int
 #define 曰く =
+#define それはそう ==
+#define なんか違うなあ !=
 #define ． ;
 #define 最弱の王 <
 #define 再提出 return
